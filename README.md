@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Abu Ibrahim Md Moeenuddin Miran</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <img align="center"  alt="Coding" width="1000" height="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47h72awhtddqewx8jj8lv54enlf4mwngp9ix3uszo9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
