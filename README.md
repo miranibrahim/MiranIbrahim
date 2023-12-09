@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abu Ibrahim Md Moeenuddin Miran</h1>
 <h3 align="center">Junior web developer from Bangladesh</h3>
-<img align="center"  alt="Coding" width="1000" height="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47h72awhtddqewx8jj8lv54enlf4mwngp9ix3uszo9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center"  alt="Coding"  src="https://wallpaperaccess.com/full/8901678.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiranIbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="MiranIbrahim" /> </p>
 
 - 🔭 I’m currently working on [Tech-Book](https://github.com/MiranIbrahim/Tech-Book)
